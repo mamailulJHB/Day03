@@ -12,6 +12,8 @@
 
 #include <unistd.h>
 
+int	main(void)
+	
 void	ft_ft(int *nbr)
 {
 	*nbr = 42;
