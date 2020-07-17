@@ -29,8 +29,3 @@ void	ft_putstr(char *str)
 	}
 
 }
-int main()
-{
-	ft_putstr("pearl");
-	return (0);
-}
